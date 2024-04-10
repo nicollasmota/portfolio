@@ -147,7 +147,7 @@ body {
     font-family: var(--fonte-secundaria);
 }
 
-@media (max-width: 1103px){
+@media (max-width: 396px){
   .cabecalho{
     padding: 10%;
   }
@@ -163,5 +163,8 @@ body {
   .apresentacao__conteudo {
     width: auto;
 
+  }
+  .apresentacao__links__navegacao{
+    border-radius: 12px;
   }
 }
